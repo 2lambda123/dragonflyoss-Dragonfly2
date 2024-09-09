@@ -12,7 +12,7 @@ require (
 	github.com/aliyun/aliyun-oss-go-sdk v3.0.2+incompatible
 	github.com/appleboy/gin-jwt/v2 v2.10.0
 	github.com/aws/aws-sdk-go v1.55.5
-	github.com/bits-and-blooms/bitset v1.13.0
+	github.com/bits-and-blooms/bitset v1.14.3
 	github.com/casbin/casbin/v2 v2.99.0
 	github.com/casbin/gorm-adapter/v3 v3.5.0
 	github.com/colinmarc/hdfs/v2 v2.3.0
