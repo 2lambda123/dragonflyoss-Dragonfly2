@@ -15,7 +15,7 @@ require (
 	github.com/bits-and-blooms/bitset v1.14.3
 	github.com/casbin/casbin/v2 v2.99.0
 	github.com/casbin/gorm-adapter/v3 v3.28.0
-	github.com/colinmarc/hdfs/v2 v2.3.0
+	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/containerd/containerd v1.6.26
 	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/docker/distribution v2.8.3+incompatible
