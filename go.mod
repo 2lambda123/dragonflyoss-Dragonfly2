@@ -72,7 +72,7 @@ require (
 	github.com/swaggo/swag v1.16.3
 	github.com/yl2chen/cidranger v1.0.2
 	github.com/zeebo/blake3 v0.2.4
-	go.opentelemetry.io/contrib/instrumentation/github.com/gin-gonic/gin/otelgin v0.55.0
+	go.opentelemetry.io/contrib/instrumentation/github.com/gin-gonic/gin/otelgin v0.56.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.54.0
 	go.opentelemetry.io/otel v1.31.0
 	go.opentelemetry.io/otel/exporters/jaeger v1.17.0
@@ -118,7 +118,7 @@ require (
 	github.com/blang/semver/v4 v4.0.0 // indirect
 	github.com/bmatcuk/doublestar/v4 v4.6.1 // indirect
 	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b // indirect
-	github.com/bytedance/sonic v1.12.2 // indirect
+	github.com/bytedance/sonic v1.12.3 // indirect
 	github.com/bytedance/sonic/loader v0.2.0 // indirect
 	github.com/casbin/govaluate v1.2.0 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
@@ -245,7 +245,7 @@ require (
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.54.0 // indirect
 	go.opentelemetry.io/otel/metric v1.31.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/arch v0.10.0 // indirect
+	golang.org/x/arch v0.11.0 // indirect
 	golang.org/x/net v0.30.0 // indirect
 	golang.org/x/term v0.25.0 // indirect
 	golang.org/x/text v0.19.0 // indirect
