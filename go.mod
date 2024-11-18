@@ -14,7 +14,7 @@ require (
 	github.com/aws/aws-sdk-go v1.55.5
 	github.com/bits-and-blooms/bitset v1.14.3
 	github.com/casbin/casbin/v2 v2.100.0
-	github.com/casbin/gorm-adapter/v3 v3.28.0
+	github.com/casbin/gorm-adapter/v3 v3.32.0
 	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/containerd/containerd v1.7.23
 	github.com/deckarep/golang-set/v2 v2.6.0
@@ -257,7 +257,7 @@ require (
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gorm.io/driver/sqlserver v1.5.3 // indirect
-	gorm.io/plugin/dbresolver v1.3.0 // indirect
+	gorm.io/plugin/dbresolver v1.5.3 // indirect
 	k8s.io/apimachinery v0.31.2 // indirect
 	k8s.io/klog/v2 v2.130.1 // indirect
 	logur.dev/logur v0.16.1 // indirect
