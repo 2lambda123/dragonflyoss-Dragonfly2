@@ -170,8 +170,8 @@ github.com/bytedance/sonic/loader v0.1.1/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4
 github.com/bytedance/sonic/loader v0.2.0 h1:zNprn+lsIP06C/IqCHs3gPQIvnvpKbbxyXQP1iU4kWM=
 github.com/bytedance/sonic/loader v0.2.0/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4yY2JpfqGeCtNLU=
 github.com/casbin/casbin/v2 v2.1.2/go.mod h1:YcPU1XXisHhLzuxH9coDNf2FbKpjGlbCg3n9yuLkIJQ=
-github.com/casbin/casbin/v2 v2.101.0 h1:y8qZRXcgv5omd3k/7kpaP03Hov82sXzCC5FAfm17lkw=
-github.com/casbin/casbin/v2 v2.101.0/go.mod h1:LO7YPez4dX3LgoTCqSQAleQDo0S0BeZBDxYnPUl95Ng=
+github.com/casbin/casbin/v2 v2.102.0 h1:weq9iSThUSL21SH3VrwoKa2DgRsaYMfjRNX/yOU3Foo=
+github.com/casbin/casbin/v2 v2.102.0/go.mod h1:LO7YPez4dX3LgoTCqSQAleQDo0S0BeZBDxYnPUl95Ng=
 github.com/casbin/gorm-adapter/v3 v3.32.0 h1:Au+IOILBIE9clox5BJhI2nA3p9t7Ep1ePlupdGbGfus=
 github.com/casbin/gorm-adapter/v3 v3.32.0/go.mod h1:Zre/H8p17mpv5U3EaWgPoxLILLdXO3gHW5aoQQpUDZI=
 github.com/casbin/govaluate v1.2.0 h1:wXCXFmqyY+1RwiKfYo3jMKyrtZmOL3kHwaqDyCPOYak=

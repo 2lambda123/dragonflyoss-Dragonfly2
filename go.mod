@@ -13,7 +13,7 @@ require (
 	github.com/appleboy/gin-jwt/v2 v2.10.0
 	github.com/aws/aws-sdk-go v1.55.5
 	github.com/bits-and-blooms/bitset v1.14.3
-	github.com/casbin/casbin/v2 v2.101.0
+	github.com/casbin/casbin/v2 v2.102.0
 	github.com/casbin/gorm-adapter/v3 v3.32.0
 	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/containerd/containerd v1.7.24
