@@ -4,7 +4,7 @@ go 1.21
 toolchain go1.23.4
 
 require (
-	d7y.io/api/v2 v2.0.154
+	d7y.io/api/v2 v2.0.177
 	github.com/MysteriousPotato/go-lockable v1.0.0
 	github.com/RichardKnop/machinery v1.10.8
 	github.com/Showmax/go-fqdn v1.0.0
