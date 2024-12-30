@@ -13,7 +13,7 @@ require (
 	github.com/appleboy/gin-jwt/v2 v2.10.0
 	github.com/aws/aws-sdk-go v1.55.5
 	github.com/bits-and-blooms/bitset v1.20.0
-	github.com/casbin/casbin/v2 v2.102.0
+	github.com/casbin/casbin/v2 v2.103.0
 	github.com/casbin/gorm-adapter/v3 v3.32.0
 	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/containerd/containerd v1.7.24
@@ -120,7 +120,7 @@ require (
 	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b // indirect
 	github.com/bytedance/sonic v1.12.4 // indirect
 	github.com/bytedance/sonic/loader v0.2.1 // indirect
-	github.com/casbin/govaluate v1.2.0 // indirect
+	github.com/casbin/govaluate v1.3.0 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/cloudwego/base64x v0.1.4 // indirect
 	github.com/cloudwego/iasm v0.2.0 // indirect
