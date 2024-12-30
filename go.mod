@@ -1,7 +1,7 @@
 module d7y.io/dragonfly/v2
 
 go 1.21
-toolchain go1.22.9
+toolchain go1.23.4
 
 require (
 	d7y.io/api/v2 v2.0.154
@@ -96,7 +96,7 @@ require (
 	gorm.io/driver/postgres v1.5.11
 	gorm.io/gorm v1.25.12
 	gorm.io/plugin/soft_delete v1.2.1
-	k8s.io/component-base v0.31.2
+	k8s.io/component-base v0.32.0
 	logur.dev/adapter/zap v0.5.0
 	moul.io/zapgorm2 v1.3.0
 	stathat.com/c/consistent v1.0.0
@@ -144,10 +144,10 @@ require (
 	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
-	github.com/go-openapi/jsonpointer v0.19.6 // indirect
+	github.com/go-openapi/jsonpointer v0.21.0 // indirect
 	github.com/go-openapi/jsonreference v0.20.2 // indirect
 	github.com/go-openapi/spec v0.20.6 // indirect
-	github.com/go-openapi/swag v0.22.4 // indirect
+	github.com/go-openapi/swag v0.23.0 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
 	github.com/go-redsync/redsync/v4 v4.8.1 // indirect
@@ -257,11 +257,12 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gorm.io/driver/sqlserver v1.5.3 // indirect
 	gorm.io/plugin/dbresolver v1.5.3 // indirect
-	k8s.io/apimachinery v0.31.2 // indirect
+	k8s.io/apimachinery v0.32.0 // indirect
 	k8s.io/klog/v2 v2.130.1 // indirect
 	logur.dev/logur v0.16.1 // indirect
 	modernc.org/libc v1.22.2 // indirect
 	modernc.org/mathutil v1.5.0 // indirect
 	modernc.org/memory v1.5.0 // indirect
 	modernc.org/sqlite v1.20.3 // indirect
+	sigs.k8s.io/yaml v1.4.0 // indirect
 )
