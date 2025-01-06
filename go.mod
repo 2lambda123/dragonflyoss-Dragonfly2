@@ -4,7 +4,7 @@ go 1.21
 toolchain go1.23.4
 
 require (
-	d7y.io/api/v2 v2.0.177
+	d7y.io/api/v2 v2.1.3
 	github.com/MysteriousPotato/go-lockable v1.0.0
 	github.com/RichardKnop/machinery v1.10.8
 	github.com/Showmax/go-fqdn v1.0.0
@@ -88,8 +88,8 @@ require (
 	golang.org/x/sys v0.28.0
 	golang.org/x/time v0.8.0
 	google.golang.org/api v0.214.0
-	google.golang.org/grpc v1.68.1
-	google.golang.org/protobuf v1.35.2
+	google.golang.org/grpc v1.69.2
+	google.golang.org/protobuf v1.36.1
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/driver/mysql v1.5.7
