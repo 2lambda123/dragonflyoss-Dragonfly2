@@ -16,7 +16,7 @@ require (
 	github.com/casbin/casbin/v2 v2.103.0
 	github.com/casbin/gorm-adapter/v3 v3.32.0
 	github.com/colinmarc/hdfs/v2 v2.4.0
-	github.com/containerd/containerd v1.7.24
+	github.com/containerd/containerd v1.7.25
 	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/docker/distribution v2.8.3+incompatible
 	github.com/docker/docker v27.4.1+incompatible
