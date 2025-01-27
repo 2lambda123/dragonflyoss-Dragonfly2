@@ -19,7 +19,7 @@ require (
 	github.com/containerd/containerd v1.7.25
 	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/docker/distribution v2.8.3+incompatible
-	github.com/docker/docker v27.5.0+incompatible
+	github.com/docker/docker v27.5.1+incompatible
 	github.com/docker/go-connections v0.5.0
 	github.com/docker/go-units v0.5.0
 	github.com/gaius-qi/ping v1.0.0
