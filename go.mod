@@ -1,7 +1,7 @@
 module d7y.io/dragonfly/v2
 
 go 1.21
-toolchain go1.23.4
+toolchain go1.24.1
 
 require (
 	d7y.io/api/v2 v2.1.23
@@ -17,7 +17,7 @@ require (
 	github.com/casbin/gorm-adapter/v3 v3.32.0
 	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/containerd/containerd v1.7.25
-	github.com/deckarep/golang-set/v2 v2.7.0
+	github.com/deckarep/golang-set/v2 v2.8.0
 	github.com/docker/distribution v2.8.3+incompatible
 	github.com/docker/docker v27.5.1+incompatible
 	github.com/docker/go-connections v0.5.0
